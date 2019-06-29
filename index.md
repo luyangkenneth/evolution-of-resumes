@@ -1,3 +1,7 @@
+---
+title: Evolution of Resumes
+---
+
 # Evolution of Resumes
 
 When I started applying for software engineering internships in my second year of university, I knew there were plenty of online articles out there that taught you how to write a great resume - [this](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/resume.md) is a great resource, for example. But turns out resumes aren't just about arranging words on a page. I learned a lot from those articles, but what was the point when I "had nothing" to put on my resume in the first place?
