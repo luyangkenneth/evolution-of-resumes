@@ -48,7 +48,7 @@ Here are some things I was quite intentional about in this version:
 - Shrinking the page margins to be as narrow as possible, so that I could fit more content.
 - Not listing my grades.
 - Americanizing everything, because I was going all out to get a US internship this time. This also includes conforming to the [first name] [last name] format - it's just easier that way.
-- Removing my high school (what did I say about Americanizing everything? :wink:) from my "Education" section.
+- Removing my high school (what did I say about Americanizing everything? 😉) from my "Education" section.
 - Providing a short description and the location of each company I interned at. Again, context is important.
 
 ![](Y4S1%20(October%202017).png)
@@ -58,7 +58,7 @@ Here are some things I was quite intentional about in this version:
 
 This was the last resume that I sent out before I got my final internship at my dream company, Asana. If you're curious about what my complete timeline looks like, you can check out my [LinkedIn](https://www.linkedin.com/in/luyangkenneth/).
 
-Across the different versions, I've made many space-saving changes that helped me to accommodate everything I wanted to include in my resume. I suppose you may be able to take away a thing or two :slightly_smiling_face:
+Across the different versions, I've made many space-saving changes that helped me to accommodate everything I wanted to include in my resume. I suppose you may be able to take away a thing or two 🙂
 
 Some final pointers about applying for US internships:
 - While it was sufficient to state that I was graduating in 2019, I learnt that recruiters really want to know your exact graduation date (month + year) to project your timeline for full-time conversion, so it doesn't hurt to be more specific. In the US, the primary goal for hiring interns is to convert them to full-time. This isn't always the case in Singapore.
