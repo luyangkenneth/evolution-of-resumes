@@ -1,8 +1,8 @@
 When I started applying for software engineering internships in my second year of university, I knew there were plenty of online articles out there that taught you how to write a great resume - [this](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/resume.md) is a great resource, for example. But turns out resumes aren't just about arranging words on a page. I learned a lot from those articles, but what was the point when I "had nothing" to put on my resume in the first place?
 
-I struggled to get interviews at the companies I applied to, and I realized I had neglected to build up the relevant skills and experience that would have made me a strong candidate. It's hard to get experience before getting experience, but through sheer luck and a bit of planning ahead, I eventually got my first internship. **One thing led to the next, and I went on to do a total of five internships: Tinkerbox / Honestbee / TradeGecko in Singapore, and Facebook / Asana in the US.** This was only possible because I took two semesters of leave of absence (LOA) from school, effectively delaying my graduation by one year.
+I struggled to get interviews at the companies I applied to, and I realized I had neglected to build up the relevant skills and experience that would make me come across as a strong candidate. It's hard to get experience before getting experience, but through sheer luck and a bit of planning ahead, I eventually got my first internship.
 
-Looking back, I'm glad things worked out. And I'm indebted to all the people who helped me along the way.
+**One thing led to the next, and I went on to do a total of five internships: Tinkerbox / Honestbee / TradeGecko in Singapore, and Facebook / Asana in the US.** This was only possible because I took two semesters of leave of absence (LOA) from school, effectively delaying my graduation by one year.
 
 The biggest question I had during my journey was "How do I get from here to there?". I knew of seniors whose resumes were already in great shape, and I often wondered if I, too, could be like some of them. The best thing I did was probably to observe and try to gather inspiration from the way they made progress. So I'd like to share what my own resume looked like throughout its evolution over the years, and hopefully you'll find this useful.
 
@@ -54,12 +54,19 @@ Here are some things I was quite intentional about in this version:
 
 ## Year 4 Summer (June 2018)
 
-This was the last resume that I sent out before I got my final internship at my dream company, Asana. If you're curious about what my complete timeline looks like, you can check out my [LinkedIn](https://www.linkedin.com/in/luyangkenneth/).
+This was the last resume that I sent out before I got my final internship at my dream company, Asana.
 
-Across the different versions, I've made many space-saving changes that helped me to accommodate everything I wanted to include in my resume. I suppose you may be able to take away a thing or two 🙂
+Across the different versions, I've made many space-saving changes to help me accommodate everything I wanted to include in my resume. I suppose you may be able to take away a thing or two 🙂
 
-Some final pointers about applying for US internships:
+A few other pointers about applying for US internships:
 - While it was sufficient to state that I was graduating in 2019, I learnt that recruiters really want to know your exact graduation date (month + year) to project your timeline for full-time conversion, so it doesn't hurt to be more specific. In the US, the primary goal for hiring interns is to convert them to full-time. This isn't always the case in Singapore.
 - On the same note, US companies care about whether you are eligible for full-time work authorization (whereas internship visas are pretty straightforward to get), so you are usually required to declare your visa status when you apply online. I strongly suspect that most (if not all) companies automatically filter out applicants from schools outside of the US, because we are statistically less likely to be guaranteed to have full-time work authorization. However, some companies might not know about the [H-1B1-Singapore visa](https://en.wikipedia.org/wiki/H-1B1_visa), so if you are a Singaporean citizen, you should probably mention it in your resume.
 
 ![](Y4Summer%20(June%202018).png)
+
+
+## Conclusion
+
+Looking back, I'm glad things worked out, and I'm indebted to all the people who helped me along the way. If you're curious about what my complete timeline looks like, you can check out my [LinkedIn profile](https://www.linkedin.com/in/luyangkenneth/).
+
+Finally, I'd love to have you join our Facebook group, [NUS Project Intern](https://www.facebook.com/groups/2329473803976246/)! This is a place to ask anything related to tech internships and new grad jobs, with a focus on Singapore and the US. It's also a community where we can share resources and stories with each other. I'm happy to answer any questions over there 😊
