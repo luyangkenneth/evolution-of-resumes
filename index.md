@@ -40,7 +40,7 @@ There's still a long way to go, but I was much happier overall with how the top 
 
 The peak hiring season for summer US internships happens around the September to November period. If you apply as late as January, chances are most of the openings are already filled. My resume was pretty inadequate in the previous season, so taking an LOA gave me an extra summer to make up for lost time. For the record, you need to remain as a student to be eligible for a US internship (mainly because of the J-1 visa requirement).
 
-I also started [preparing for technical interviews](https://github.com/yangshun/tech-interview-handbook/) since the beginning of the year, and only stopped when all my interviews concluded in January 2018. **Yes, I spent one year doing interview prep.** Doing well in interviews is something that requires consistent practice. I highly recommend that you properly invest time into it, way before the application season begins.
+I also started [preparing for technical interviews](https://yangshun.github.io/tech-interview-handbook/introduction) since the beginning of the year, and only stopped when all my interviews concluded in January 2018. **Yes, I spent one year doing interview prep.** Doing well in interviews is something that requires consistent practice. I highly recommend that you properly invest time into it, way before the application season begins.
 
 Here are some things I was quite intentional about in this version:
 - Shrinking the page margins to be as narrow as possible, so that I could fit more content.
@@ -69,4 +69,4 @@ A few other pointers about applying for US internships:
 
 Looking back, I'm glad things worked out, and I'm indebted to all the people who helped me along the way. If you're curious about what my complete timeline looks like, you can check out my [LinkedIn profile](https://www.linkedin.com/in/luyangkenneth/).
 
-Finally, I'd love to have you join our Facebook group, [NUS Project Intern](https://www.facebook.com/groups/2329473803976246/)! This is a place to ask anything related to tech internships and new grad jobs, with a focus on Singapore and the US. It's also a community where we can share resources and stories with each other. I'm happy to answer any questions over there 😊
+Finally, I'd love to have you join our Project Intern [Telegram group](https://t.me/joinchat/BMUTgxhZPJsJaEm7xq8Txg)! This is a place to ask anything related to tech internships and new grad jobs, with a focus on Singapore and the US. It's also a community for us to share tips and stories that might help you think about how to start/grow your career in tech. I'm happy to answer any questions over there 😊
